@@ -164,7 +164,7 @@ Before starting these projects, make sure you have foundational knowledge in the
 </tr>
 <tr>
 <td align="center"><b>4</b></td>
-<td><b>PyTorch</b></td>
+<td><b>PyTorch, Jax</b></td>
 <td align="center"><a href="">📎 Link</a></td>
 </tr>
 <tr>
