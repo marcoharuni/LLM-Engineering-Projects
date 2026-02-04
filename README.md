@@ -46,11 +46,11 @@ and understand the reason behind every architectural decision.
 
 By working through these projects, you will:
 
-- **Understand transformers deeply** — not just using APIs, but the mathematics and engineering trade-offs
+- **Understand transformers deeply** — The mathematics and engineering trade-offs
 - **Build from scratch** — tokenizers, attention mechanisms, optimizers, and full training pipelines
 - **Train models at scale** — from 1M to 1B+ parameters with distributed systems
 - **Optimize inference** — KV cache, speculative decoding, quantization
-- **Align models** — instruction tuning, RLHF, DPO, and test-time compute
+- **Align models** — instruction tuning, RLHF, DPO, and test-time compute and more more 
 
 ---
 
@@ -66,7 +66,7 @@ Before starting these projects, make sure you have foundational knowledge in the
 </tr>
 <tr>
 <td align="center">1</td>
-<td><b>Python, Mojo, Rust, C/C++</b> (at least one)</td>
+<td><b>Python, Mojo, Rust, C/C++</b></td>
 <td align="center"><a href="">📎 Link</a></td>
 </tr>
 <tr>
@@ -81,7 +81,7 @@ Before starting these projects, make sure you have foundational knowledge in the
 </tr>
 <tr>
 <td align="center">4</td>
-<td><b>PyTorch / JAX</b></td>
+<td><b>PyTorch</b></td>
 <td align="center"><a href="">📎 Link</a></td>
 </tr>
 <tr>
