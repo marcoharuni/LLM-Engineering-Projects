@@ -17,7 +17,7 @@ LLM Engineering Projects
   <img src="https://img.shields.io/badge/Star%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://buymeacoffee.com/marcoharuni">
+<a href="https://buymeacoffee.com/marcoharund">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
 </a>
 </p>
@@ -478,7 +478,7 @@ Your support helps cover **GPU compute costs** and keeps this project **free and
 
 <br>
 
-<a href="https://buymeacoffee.com/marcoharuni">
+<a href="https://buymeacoffee.com/marcoharund">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="70"/>
 </a>
 
@@ -567,7 +567,7 @@ You are free to use, modify, and distribute this code for personal or commercial
   <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://buymeacoffee.com/marcoharuni">
+<a href="https://buymeacoffee.com/marcoharund">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
 </a>
 
