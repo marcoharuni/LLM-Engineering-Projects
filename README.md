@@ -16,6 +16,10 @@ LLM Engineering Projects
 <a href="https://github.com/marcoharuni/LLM-Engineering-Projects">
   <img src="https://img.shields.io/badge/Star%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+&nbsp;&nbsp;
+<a href="https://buymeacoffee.com/marcoharuni">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
+</a>
 </p>
 
 <br>
@@ -42,6 +46,33 @@ and understand the reason behind every architectural decision.
 
 ---
 
+## ✨ Features
+
+- 🔥 **20+ hands-on projects** — from tokenizers to trillion-parameter training
+- 📐 **Mathematics explained** — clear derivations and intuitions
+- 💻 **Code from scratch** — PyTorch implementations, no black-box libraries
+- 🎥 **Video tutorials** — for each project
+- 📝 **Blog posts** — with deep explanations
+- 🚀 **Google Colab notebooks** — ready to run
+- 🧪 **Research-grade implementations** — based on latest papers
+
+---
+
+## 📑 Table of Contents
+
+- [What You Will Learn](#-what-you-will-learn)
+- [Prerequisites](#-prerequisites)
+- [Installation](#-installation)
+- [List of Projects](#-list-of-projects)
+- [The Researcher's Mindset](#-the-researchers-mindset)
+- [Citation](#-citation)
+- [Contributing](#-contributing)
+- [Support This Project](#-support-this-project)
+- [License](#-license)
+- [Acknowledgements](#-acknowledgements)
+
+---
+
 ## 🎯 What You Will Learn
 
 By working through these projects, you will:
@@ -50,7 +81,7 @@ By working through these projects, you will:
 - **Build from scratch** — tokenizers, attention mechanisms, optimizers, and full training pipelines
 - **Train models at scale** — from 1M to 1B+ parameters with distributed systems
 - **Optimize inference** — KV cache, speculative decoding, quantization
-- **Align models** — instruction tuning, RLHF, DPO, and test-time compute and more more 
+- **Align models** — instruction tuning, RLHF, DPO, and test-time compute and more more
 
 ---
 
@@ -105,6 +136,33 @@ Before starting these projects, make sure you have foundational knowledge in the
 <td align="center"><a href="">📎 Link</a></td>
 </tr>
 </table>
+
+---
+
+## ⚙️ Installation
+
+**Option 1: Google Colab (Recommended)**
+
+Click the Colab badge on any project — no setup required.
+
+**Option 2: Local Setup**
+
+```bash
+# Clone the repository
+git clone https://github.com/marcoharuni/LLM-Engineering-Projects.git
+cd LLM-Engineering-Projects
+
+# Create virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+**Option 3: Cloud GPU Providers**
+
+See the **[Setup Guide](docs/SETUP.md)** for instructions on Lambda Labs, RunPod, and AWS.
 
 ---
 
@@ -186,12 +244,114 @@ If you use this curriculum in your research or learning journey:
 
 ---
 
+## 🤝 Contributing
+
+Contributions are welcome and encouraged!
+
+**You can help by:**
+
+- Adding new projects or notebooks
+- Improving explanations and math derivations
+- Fixing bugs and typos
+- Optimizing code and performance
+- Writing tutorials or visualizations
+- Translating content to other languages
+
+**How to contribute:**
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/my-feature`)
+3. Make your changes
+4. Commit with clear messages (`git commit -m "Add: new attention visualization"`)
+5. Push to your branch (`git push origin feature/my-feature`)
+6. Open a Pull Request with a short explanation
+
+**Guidelines:**
+
+- Follow clean code standards
+- Add clear documentation and comments
+- Include examples where helpful
+- Test your code before submitting
+
+---
+
+## ☕ Support This Project
+
+If this project helps you learn, saves you time, or supports your research — consider buying me a coffee.
+
+Your support helps cover GPU compute costs and keeps this project free and open for everyone.
+
+<p align="center">
+<a href="https://buymeacoffee.com/marcoharuni">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60"/>
+</a>
+</p>
+
+**Other ways to support:**
+
+- ⭐ Star this repository
+- 📢 Share on social media
+- 🐛 Report bugs and issues
+- 💡 Suggest new projects or improvements
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+You are free to use, modify, and distribute this code for personal or commercial purposes.
+
+---
+
+## 🙏 Acknowledgements
+
+This curriculum draws inspiration and knowledge from:
+
+**Tutorials & Courses**
+- Andrej Karpathy's neural network series
+- fast.ai courses
+- Stanford CS224N
+
+**Papers & Technical Reports**
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762) — Vaswani et al.
+- [LLaMA](https://arxiv.org/abs/2302.13971) — Meta AI
+- [DeepSeek-V3](https://arxiv.org/abs/2412.19437) — DeepSeek AI
+- [Flash Attention](https://arxiv.org/abs/2205.14135) — Dao et al.
+- [RoFormer (RoPE)](https://arxiv.org/abs/2104.09864) — Su et al.
+- [GQA](https://arxiv.org/abs/2305.13245) — Ainslie et al.
+- [Chinchilla](https://arxiv.org/abs/2203.15556) — Hoffmann et al.
+
+**Open Source Projects**
+- PyTorch
+- Hugging Face Transformers
+- vLLM
+- lm-eval-harness
+
+And countless late-night debugging sessions and more more ...
+
+---
+
 <div align="center">
 
 <b>Lock in. Build. Break. Plot. Repeat.</b>
 
-<br>
+<br><br>
 
 **Good luck on your journey.**
+
+<br><br>
+
+<a href="https://x.com/marcoharuni">
+  <img src="https://img.shields.io/badge/𝕏-@marcoharuni-000000?style=flat-square&logo=x&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://youtube.com/@marcoharuni">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://buymeacoffee.com/marcoharuni">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black"/>
+</a>
 
 </div>
