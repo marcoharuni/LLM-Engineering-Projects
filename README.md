@@ -24,7 +24,7 @@ LLM Engineering Projects
 
 <br>
 
-<img src="assets/banner.png" width="1000"/>
+<img src="assets/banner.png" width="700"/>
 
 <br><br>
 
@@ -34,7 +34,7 @@ LLM Engineering Projects
 
 <p>
 Code, maths, and explanations for 20+ projects covering the mechanics and reasoning behind<br>
-modern LLMs like <b>DeepSeek</b>, <b>LLaMA</b>, <b>Qwen</b>, <b>Mistral</b>, and more.
+modern LLMs like <b>DeepSeek</b>, <b>LLaMA</b>, <b>Qwen</b>, <b>Mistral</b>, <b>Kimi</b>, and more.
 </p>
 
 <p>
@@ -197,22 +197,11 @@ Before starting these projects, make sure you have foundational knowledge in the
 
 ## ⚙️ Installation
 
-<table>
-<tr>
-<td width="33%" align="center">
+**Option 1: Google Colab (Recommended)**
 
-**☁️ Option 1**<br>
-**Google Colab**<br>
-*(Recommended)*
+Click the Colab badge on any project — no setup required.
 
-Click the Colab badge on any project<br>
-No setup required
-
-</td>
-<td width="33%" align="center">
-
-**💻 Option 2**<br>
-**Local Setup**
+**Option 2: Local Setup**
 
 ```bash
 git clone https://github.com/marcoharuni/LLM-Engineering-Projects.git
@@ -220,18 +209,9 @@ cd LLM-Engineering-Projects
 pip install -r requirements.txt
 ```
 
-</td>
-<td width="33%" align="center">
+**Option 3: Cloud GPU Providers**
 
-**🖥️ Option 3**<br>
-**Cloud GPU**
-
-Lambda Labs, RunPod, AWS<br>
-See **[Setup Guide](docs/SETUP.md)**
-
-</td>
-</tr>
-</table>
+See the **[Setup Guide](docs/SETUP.md)** for instructions on Lambda Labs, RunPod, and AWS.
 
 <br>
 
@@ -556,6 +536,10 @@ You are free to use, modify, and distribute this code for personal or commercial
 <br>
 
 **Good luck on your journey.**
+
+<br><br>
+
+<img src="assets/banner.png" width="400"/>
 
 <br><br>
 
